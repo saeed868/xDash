@@ -1,0 +1,5 @@
+<head.php>
+<header.php>
+   <workstation.php>
+   <sidebar.php>
+<footer.php>
